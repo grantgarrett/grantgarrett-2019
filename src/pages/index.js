@@ -19,11 +19,11 @@ const IndexPage = () => (
       ]}
     />
     <h1>Hello, I’m Grant Garrett</h1>
-    <h2>I design and enjoy long days in the mountains.</h2>
+    <h2>I design digital products & enjoy long days in the mountains.</h2>
     <p>
-      Currently I’m designing at Sightbox. Previously I helped design product at
-      InQuicker, InVision, Sprintly, and AppFog. Learn more about my design work
-      on my portfolio site:{" "}
+      Currently I’m designing user interfaces and interactions at Sightbox.
+      Previously I helped design product at InQuicker, InVision, Sprintly, and
+      AppFog. Learn more about my design work on my portfolio site:{" "}
       <a
         href="https://www.grantgarrett.design"
         target="_blank"
