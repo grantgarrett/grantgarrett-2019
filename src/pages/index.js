@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -28,6 +28,7 @@ const IndexPage = () => (
         href="https://www.grantgarrett.design"
         target="_blank"
         rel="noopener noreferrer"
+        className="big"
       >
         grantgarrett.design
       </a>

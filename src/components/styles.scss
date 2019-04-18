@@ -36,6 +36,13 @@ p {
   line-height: 1.6em;
 }
 a {
+  color: $cream-paragraph;
+  text-decoration: underline;
+  &:hover {
+    color: $cream-link;
+  }
+}
+a.big {
   font-weight: bold;
   color: $cream-link;
   text-decoration: underline;
