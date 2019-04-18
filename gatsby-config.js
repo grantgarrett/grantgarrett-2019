@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Grant Garrett`,
+    title: ``,
     description: `Grant Garrett: Designer and Endurance Athlete`,
     author: `@grantgarrett`,
   },
@@ -14,7 +14,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    `gatsby-transformer-sharp`,
+    // `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
