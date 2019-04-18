@@ -60,11 +60,7 @@ const IndexPage = () => (
       </a>
       <br />
       Email:{" "}
-      <a
-        href="mailo:grant@grantgarrett.com?subject=Hi from gg.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
+      <a href="mailto:grant@grantgarrett.com?subject=Hi from gg.com">
         grant@grantgarrett.com
       </a>
       <br />
