@@ -20,6 +20,8 @@ const IndexPage = () => (
     />
     <h1>Hello, I’m Grant Garrett</h1>
     <h2>I design digital products & enjoy long days in the mountains.</h2>
+
+    <h3>Work</h3>
     <p>
       Currently I’m designing user interfaces and interactions at Sightbox.
       Previously I helped design product at InQuicker, InVision, Sprintly, and
@@ -34,11 +36,25 @@ const IndexPage = () => (
       </a>
       .
     </p>
+    <h3>Growth</h3>
+    <p>Learning React</p>
+    <h3>Play</h3>
     <p>
-      Right now I’m in the midst of training for the Mountain Lakes 100. Other
-      endurance related activities I’ve done are racing the Mt. Baker Ultra,
-      Tillamook Burn 50, and the Portland Marathon and summiting mountains in
-      the Pacific Northwest such as Forbidden Peak, Mt. Hood, and Mt. Rainier.
+      <b>Update:</b> I completed my first 100 mile run, the{" "}
+      <a
+        href="https://www.strava.com/activities/2732253168/overview"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Mountain Lakes 100
+      </a>{" "}
+      back in September.{" "}
+      <span className="line-through">
+        Right now I’m in the midst of training for the Mountain Lakes 100.
+      </span>{" "}
+      Other races I’ve done are the Mt. Baker Ultra, Tillamook Burn 50, and the
+      Portland Marathon. Some of the more significant mountains I've climbed in
+      the Pacific Northwest include Forbidden Peak, Mt. Hood, and Mt. Rainier.
     </p>
     <p>
       Twitter:{" "}
