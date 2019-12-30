@@ -23,9 +23,13 @@ const IndexPage = () => (
 
     <h3>Work</h3>
     <p>
-      Currently I’m designing user interfaces and interactions at Sightbox.
-      Previously I helped design product at InQuicker, InVision, Sprintly, and
-      AppFog. Learn more about my design work on my portfolio site:{" "}
+      Currently I’m <span className="highlight">open</span> for freelance and
+      short-term contract design work.
+    </p>
+    <p>
+      Previously I helped design product at SightBox, InQuicker, InVision,
+      Sprintly, and AppFog. Learn more about my design work on my portfolio
+      site:{" "}
       <a
         href="https://www.grantgarrett.design"
         target="_blank"
@@ -37,7 +41,10 @@ const IndexPage = () => (
       .
     </p>
     <h3>Growth</h3>
-    <p>Learning React</p>
+    <ul>
+      <li>Learning React</li>
+      <li>Getting back into climbing</li>
+    </ul>
     <h3>Play</h3>
     <p>
       <b>Update:</b> I completed my first 100 mile run, the{" "}
