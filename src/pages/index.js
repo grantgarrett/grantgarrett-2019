@@ -23,13 +23,12 @@ const IndexPage = () => (
 
     <h3>Work</h3>
     <p>
-      Currently I’m <span className="highlight">open</span> for freelance and
-      short-term contract design work.
+      Currently I’m <span className="highlight">open</span> for contract or
+      full-time design work.
     </p>
     <p>
       Previously I helped design product at SightBox, InQuicker, InVision,
-      Sprintly, and AppFog. Learn more about my design work on my portfolio
-      site:{" "}
+      Sprintly, and AppFog. Learn more: {` `}
       <a
         href="https://www.grantgarrett.design"
         target="_blank"
@@ -43,11 +42,18 @@ const IndexPage = () => (
     <h3>Growth</h3>
     <ul>
       <li>Learning React</li>
-      <li>Getting back into climbing</li>
+      <li>
+        <span className="line-through">Getting back into climbing</span>{" "}
+        (2020...)
+      </li>
     </ul>
     <h3>Play</h3>
     <p>
-      <b>Update:</b> I completed my first 100 mile run, the{" "}
+      <span className="line-through">
+        Right now I’m in the midst of training for the Mountain Lakes 100.
+      </span>
+      <br />
+      <b>Update:</b> I completed my first 100 mile run,{" "}
       <a
         href="https://www.strava.com/activities/2732253168/overview"
         target="_blank"
@@ -55,14 +61,14 @@ const IndexPage = () => (
       >
         Mountain Lakes 100
       </a>{" "}
-      back in September.{" "}
-      <span className="line-through">
-        Right now I’m in the midst of training for the Mountain Lakes 100.
-      </span>{" "}
+      back in September.
+    </p>
+    <p>
       Other races I’ve done are the Mt. Baker Ultra, Tillamook Burn 50, and the
       Portland Marathon. Some of the more significant mountains I've climbed in
       the Pacific Northwest include Forbidden Peak, Mt. Hood, and Mt. Rainier.
     </p>
+    <h3>Find Me Elsewhere</h3>
     <p>
       Twitter:{" "}
       <a

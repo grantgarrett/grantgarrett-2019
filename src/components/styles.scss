@@ -38,8 +38,10 @@ h3 {
   font-weight: 800;
   text-transform: uppercase;
   color: $cream-paragraph;
+  color: $cream-subhead;
+  opacity: 0.6;
   margin-bottom: 0.6em;
-  margin-top: 2em;
+  margin-top: 3em;
 }
 p,
 li {
@@ -61,17 +63,17 @@ li {
   margin: 0;
 }
 a {
-  //   color: $cream-paragraph;
+  color: $cream-paragraph;
   color: $cream-link;
-  text-decoration: none;
+  // text-decoration: none;
   &:hover {
-    text-decoration: underline;
-    color: $cream-link;
+    // text-decoration: underline;
+    color: $cream-highlight;
   }
 }
 a.big {
   font-weight: bold;
-  color: $cream-link;
+  // color: $cream-link;
   //   text-decoration: underline;
 }
 @media only screen and (max-width: 667px) {
