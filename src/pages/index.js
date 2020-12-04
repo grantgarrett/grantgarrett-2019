@@ -23,7 +23,7 @@ const IndexPage = () => (
 
     <h3>Work</h3>
     <p>
-      Currently I’m <span className="highlight">open</span> for contract or
+      Currently I’m <span className="highlight">Unavailable</span> for contract or
       full-time design work.
     </p>
     <p>
@@ -61,7 +61,7 @@ const IndexPage = () => (
       >
         Mountain Lakes 100
       </a>{" "}
-      back in September.
+      back in September of 2019.
     </p>
     <p>
       Other races I’ve done are the Mt. Baker Ultra, Tillamook Burn 50, and the
